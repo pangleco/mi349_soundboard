@@ -1,0 +1,36 @@
+﻿
+.title {
+    font-family: "Lucida Console";
+    color: darkred;
+    font-size: 40px;
+    text-align: center;
+}
+
+.subtext {
+    font-family: "Lucida Console";
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.sounds {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: rgba[0,0,0,0.1] 0 0 20px;
+    border: 1px solid #aaa;
+}
+
+.buttons {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.buttons li {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px;
+}
